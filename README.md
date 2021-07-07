@@ -1,5 +1,6 @@
 # tivalaunchpad_libraries
 Tiva EK-TM4C123GXL libraries for UART and multiple ADC developed by Dmitrii Gusev, Simon Fraser University. Developed for MSE450 course project.
+This code is not perfect whatsoever (I would say it is really bad), but it works <3
 
 ## Supports:
 - UART0
